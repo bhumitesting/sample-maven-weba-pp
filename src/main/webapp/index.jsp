@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Ashok IT..!! IT IS A Best Software Ins<font></h1>
+<h1><font color='red'>Welcome to Ashok IT..!! <font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
 <h3> Ashok is a Triner </h3>
  <p> ashok it is a best software ins it is locateded i hyd ashok is a owner of the ins
